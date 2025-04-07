@@ -113,7 +113,7 @@ keyboard = InlineKeyboardMarkup(
                     [
                     InlineKeyboardButton("🔔ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ🔔" ,url="https://t.me/ProBotUpdate") ],
                     [
-                    InlineKeyboardButton("🦋ғᴏʟʟᴏᴡ ᴜs🦋" ,url="https://t.me/ProBotsDiscussionsGroup")                              
+                    InlineKeyboardButton("⚡ᴅɪsᴄᴜss ɢʀᴏᴜᴘ⚡" ,url="https://t.me/ProBotsDiscussionsGroup")                              
                 ],           
             ]
       )
